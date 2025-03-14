@@ -1,5 +1,5 @@
 /**
-* @license StewartPrivateLicense-2.0.1
+* @license StewartPrivateLicense-2.0.1 KEN
 * Copyright (c) 05Konz 2023
 *
 * You may not reproduce or distribute any code inside this file without the licenser's permission.
